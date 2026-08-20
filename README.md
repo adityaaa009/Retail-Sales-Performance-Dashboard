@@ -1,4 +1,4 @@
-
+![Dashboard Preview](https://github.com/adityaaa009/Retail-Sales-Performance-Dashboard/blob/main/Retail%20Sales%20Performance%20Dashboard.png)
 # Retail Electronics Pricing & Profitability Dashboard
  
 **Tool:** Tableau  
